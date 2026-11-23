@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "LocalFlow.AppHost.csproj"
+  }
+}
